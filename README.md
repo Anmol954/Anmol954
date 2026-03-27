@@ -1,162 +1,264 @@
-<!-- Spider-Man Themed GitHub Profile README for Anmol Madhav (@Anmol954) -->
+<div align="center">
+
+<!-- ██████████████████████████████████████████ -->
+<!--              HERO BANNER                   -->
+<!-- ██████████████████████████████████████████ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0000,30:8B0000,60:CC0000,100:FF0000&height=300&section=header&text=ANMOL%20MADHAV&fontSize=70&fontColor=ffffff&fontAlignY=40&stroke=FF0000&strokeWidth=2&desc=🕷️%20Your%20Friendly%20Neighbourhood%20AI%20Developer&descSize=20&descAlignY=62&animation=fadeIn" />
+
+<!-- Spider-Man SVG Web Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<!-- Glitch Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=22&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&multiline=false&width=750&lines=⚡+Building+AI+that+thinks%2C+learns+%26+adapts;🕸️+RAG+Systems+%7C+LLMs+%7C+Deep+Learning;🧠+Turning+Raw+Data+into+Intelligent+Decisions;🇮🇳+ML+Developer+from+India+swinging+through+code)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Red web divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+
+</div>
+
+---
 
 <div align="center">
 
-<!-- Spider-Web Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:CC0000,100:FF0000&height=200&section=header&text=Anmol%20Madhav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=🕷️%20ML%20%26%20AI%20Developer%20|%20Data%20Scientist%20|%20Problem%20Solver&descAlignY=60&descSize=18&animation=twinkling" />
+## 🕷️ `> WHO AM I?`
 
-<!-- Spiderman ASCII Art -->
+</div>
+
 ```
-  ░██████╗██████╗░██╗██████╗░███████╗██████╗░███╗░░░███╗░█████╗░███╗░░██╗
-  ██╔════╝██╔══██╗██║██╔══██╗██╔════╝██╔══██╗████╗░████║██╔══██╗████╗░██║
-  ╚█████╗░██████╔╝██║██║░░██║█████╗░░██████╔╝██╔████╔██║███████║██╔██╗██║
-  ░╚═══██╗██╔═══╝░██║██║░░██║██╔══╝░░██╔══██╗██║╚██╔╝██║██╔══██║██║╚████║
-  ██████╔╝██║░░░░░██║██████╔╝███████╗██║░░██║██║░╚═╝░██║██║░░██║██║░╚███║
-  ╚═════╝░╚═╝░░░░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
-```
-
-<br>
-
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=With+Great+Data+Comes+Great+Responsibility+🕷️;ML+%26+AI+Developer+from+India+🇮🇳;Building+Intelligent+Systems+One+Model+at+a+Time;Swinging+Through+Neural+Networks+%F0%9F%95%B8%EF%B8%8F)](https://git.io/typing-svg)
-
-<br>
-
----
-
-## 🕸️ About Me
-
-```python
-class SpiderDev:
-    name       = "Anmol Madhav"
-    alias      = "Anmol954"
-    location   = "India 🇮🇳"
-    email      = "anmolmadhav2004@gmail.com"
-    role       = "ML/AI Developer & Data Scientist"
-    
-    superpowers = [
-        "Machine Learning",
-        "Deep Learning",
-        "Natural Language Processing",
-        "Retrieval-Augmented Generation (RAG)",
-        "Data Analysis & Visualization"
-    ]
-    
-    quote = "With great data comes great responsibility 🕷️"
-    
-    def swing_into_action(self):
-        return "Building AI that makes the world smarter 🚀"
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   █████╗ ███╗   ██╗███╗   ███╗ ██████╗ ██╗                          ║
+║  ██╔══██╗████╗  ██║████╗ ████║██╔═══██╗██║                          ║
+║  ███████║██╔██╗ ██║██╔████╔██║██║   ██║██║                          ║
+║  ██╔══██║██║╚██╗██║██║╚██╔╝██║██║   ██║██║                          ║
+║  ██║  ██║██║ ╚████║██║ ╚═╝ ██║╚██████╔╝███████╗                     ║
+║  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝ ╚══════╝   @Anmol954        ║
+║                                                                      ║
+║  🕷️  Role      →  ML / AI Developer & Data Scientist                 ║
+║  📍  Location  →  India 🇮🇳                                          ║
+║  📬  Email     →  anmolmadhav2004@gmail.com                          ║
+║  💡  Mission   →  "With great data comes great responsibility"       ║
+║  🔥  Status    →  Always building something new...                   ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## ⚡ Tech Stack — My Web-Shooters
+<div align="center">
 
-<br>
+## 🕸️ `> SPIDER-SENSE: SKILLS DETECTED`
 
-**🧠 AI / ML**
+<!-- Snake animation of contributions -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=FF0000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FF6600)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-1a1a2e?style=for-the-badge&logoColor=FFD21E)
-![OpenAI](https://img.shields.io/badge/OpenAI-1a1a2e?style=for-the-badge&logo=openai&logoColor=00A67E)
+</div>
 
-**📊 Data & Visualization**
+<br/>
 
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-1a1a2e?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1a1a2e?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-1a1a2e?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Power BI](https://img.shields.io/badge/Power%20BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+### 🧠 AI / Machine Learning
 
-**🛠️ Dev Tools**
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26)
-![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![FAISS](https://img.shields.io/badge/FAISS-1a1a2e?style=for-the-badge&logo=meta&logoColor=0084FF)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![Python](https://img.shields.io/badge/Python-%23FF0000.svg?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6600.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23CC0000.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-%23FF0000.svg?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23CC0000.svg?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%238B0000.svg?style=for-the-badge&logo=chainlink&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-%23FF0000.svg?style=for-the-badge&logo=meta&logoColor=white)
 
----
+</div>
 
-## 🕷️ Pinned Projects — My Web of Work
+### 📊 Data & Visualization
 
-<br>
+<div align="center">
 
-| 🕸️ Project | 💡 Description | 🛠️ Stack |
-|---|---|---|
-| [🧠 DocuMind](https://github.com/Anmol954/DocuMind) | RAG system to query PDFs in natural language using FAISS + GPT | Python, FAISS, OpenAI |
-| [🤖 Mini-JARVIS](https://github.com/Anmol954/Mini-JARVIS) | Voice-activated system commands — Iron Man style! | Python |
-| [💰 AI Wealth Management](https://github.com/Anmol954/AI_Wealth_Management) | AI-powered financial decision-making assistant | JavaScript |
-| [🧬 Autism Prediction](https://github.com/Anmol954/Autism-Prediction) | ML model for early autism detection | Jupyter, Python |
-| [📈 Crypto Market Dashboard](https://github.com/Anmol954/Crypto-Market-Trends-Dashboard) | Power BI dashboard for BTC, ETH, BNB & DOGE trends | Power BI |
-| [📉 Customer Churn Analysis](https://github.com/Anmol954/Customer-Retention-and-Churn-Analysis) | Churn prediction using SQL, Excel & Tableau | SQL, Tableau |
-| [⚡ ENDEE](https://github.com/Anmol954/ENDEE) | Latest project — actively in development 🔧 | Python |
-| [🎓 Upgrad Completer](https://github.com/Anmol954/upgrad-completer) | Automation tool for Upgrad course workflows | HTML, Python |
+![Pandas](https://img.shields.io/badge/Pandas-%23CC0000.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23FF0000.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%238B0000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-%23CC0000.svg?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-%23FF0000.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%238B0000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23CC0000.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
+</div>
 
-## 📊 GitHub Stats — Spidey's Scoreboard
+### 🛠️ Dev & Tools
 
-<br>
+<div align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anmol954&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000&hide_border=false&rank_icon=github" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol954&theme=dark&background=0d0d0d&border=FF0000&ring=FF0000&fire=FF6600&currStreakLabel=FF0000&sideLabels=ffffff&dates=888888" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23FF0000.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23CC0000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%238B0000.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FF0000.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23CC0000.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%238B0000.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23FF0000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol954&layout=compact&theme=dark&title_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000&langs_count=6" />
-</p>
+</div>
 
 ---
 
-## 🏆 Achievements — Wall-Crawler Trophies
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anmol954&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
-</p>
+## 🕸️ `> PROJECT WEB — WHERE THE MAGIC HAPPENS`
+
+</div>
+
+<br/>
+
+> 🕷️ *Every great hero needs a lair. Here's mine.*
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/DocuMind">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=DocuMind&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/Mini-JARVIS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=Mini-JARVIS&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/AI_Wealth_Management">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=AI_Wealth_Management&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/Autism-Prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=Autism-Prediction&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/Crypto-Market-Trends-Dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=Crypto-Market-Trends-Dashboard&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/Customer-Retention-and-Churn-Analysis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=Customer-Retention-and-Churn-Analysis&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/ENDEE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=ENDEE&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Anmol954/upgrad-completer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=upgrad-completer&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🕷️ Activity Graph — Swinging Through Commits
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol954&bg_color=0d0d0d&color=FF0000&line=CC0000&point=ffffff&area=true&hide_border=false&border_color=FF0000" />
-</p>
+## 📊 `> SPIDEY STATS TERMINAL`
 
----
+<br/>
 
-## 🌐 Connect with Your Friendly Neighborhood Dev
+<!-- Animated Stats Cards -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anmol954&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF4444&text_color=ff9999&bg_color=0d0000&border_color=8B0000&hide_border=false&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol954&theme=dark&background=0d0000&border=8B0000&ring=FF0000&fire=FF6600&currStreakLabel=FF0000&sideLabels=ff9999&dates=666666&stroke=FF0000" />
 
-<p align="center">
-  <a href="https://github.com/Anmol954">
-    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF0000" />
-  </a>
-  &nbsp;
-  <a href="mailto:anmolmadhav2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-anmolmadhav2004@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF0000" />
-  </a>
-</p>
+<br/><br/>
 
-<br>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol954&layout=donut&theme=dark&title_color=FF0000&text_color=ff9999&bg_color=0d0000&border_color=8B0000&langs_count=6&hide_border=false" />
+
+<br/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anmol954&style=for-the-badge&color=CC0000&label=🕷️+PROFILE+VIEWS" />
-</p>
+<div align="center">
 
-<br>
+## 🏆 `> WALL-CRAWLER TROPHIES`
 
-> _"With great data comes great responsibility."_ 🕷️  
-> — Anmol Madhav
+<br/>
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:CC0000,100:8B0000&height=120&section=footer" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anmol954&theme=darkhub&column=4&margin-w=12&margin-h=12&no-bg=false&row=2" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🕸️ `> COMMIT WEB — SWINGING THROUGH HISTORY`
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol954&bg_color=0d0000&color=FF4444&line=CC0000&point=FF0000&area=true&area_color=8B0000&hide_border=false&border_color=8B0000&radius=8" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 `> OPEN COMMS — FIND ME IN THE MULTIVERSE`
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/⬡_GITHUB-Anmol954-0d0000?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=1a0000&color=0d0000)](https://github.com/Anmol954)
+&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/⬡_GMAIL-anmolmadhav2004@gmail.com-0d0000?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=1a0000&color=0d0000)](mailto:anmolmadhav2004@gmail.com)
+
+<br/>
+
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=Anmol954&style=for-the-badge&color=8B0000&label=🕷️+MULTIVERSE+VISITORS&abbreviated=true" />
+
+<br/><br/>
+
+---
+
+### 🕷️ *The Spider's Manifesto*
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   "In every universe, in every timeline —                ║
+║    the spider always finds a way to code." 🕸️            ║
+║                                                          ║
+║   → I don't just write models. I build minds.            ║
+║   → I don't just analyze data. I find stories in it.     ║
+║   → I don't just push commits. I swing through them.     ║
+║                                                          ║
+║                          — Anmol Madhav, @Anmol954       ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- Animated Footer -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,40:CC0000,70:8B0000,100:0d0000&height=140&section=footer&text=🕷️+See+you+in+the+next+commit!&fontSize=22&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 
 </div>
