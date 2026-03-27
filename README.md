@@ -5,7 +5,7 @@
 <!-- Spider-Web Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:CC0000,100:FF0000&height=200&section=header&text=Anmol%20Madhav&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=🕷️%20ML%20%26%20AI%20Developer%20|%20Data%20Scientist%20|%20Problem%20Solver&descAlignY=60&descSize=18&animation=twinkling" />
 
-<!-- Spiderman ASCII Art / Quote -->
+<!-- Spiderman ASCII Art -->
 ```
   ░██████╗██████╗░██╗██████╗░███████╗██████╗░███╗░░░███╗░█████╗░███╗░░██╗
   ██╔════╝██╔══██╗██║██╔══██╗██╔════╝██╔══██╗████╗░████║██╔══██╗████╗░██║
@@ -22,9 +22,6 @@
 
 <br>
 
-<!-- Spider divider -->
-<img src="https://raw.githubusercontent.com/Anmol954/Anmol954/main/assets/spidey-line.gif" width="100%" onerror="this.style.display='none'">
-
 ---
 
 ## 🕸️ About Me
@@ -34,6 +31,7 @@ class SpiderDev:
     name       = "Anmol Madhav"
     alias      = "Anmol954"
     location   = "India 🇮🇳"
+    email      = "anmolmadhav2004@gmail.com"
     role       = "ML/AI Developer & Data Scientist"
     
     superpowers = [
@@ -77,6 +75,7 @@ class SpiderDev:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![FAISS](https://img.shields.io/badge/FAISS-1a1a2e?style=for-the-badge&logo=meta&logoColor=0084FF)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
@@ -96,6 +95,8 @@ class SpiderDev:
 | [🧬 Autism Prediction](https://github.com/Anmol954/Autism-Prediction) | ML model for early autism detection | Jupyter, Python |
 | [📈 Crypto Market Dashboard](https://github.com/Anmol954/Crypto-Market-Trends-Dashboard) | Power BI dashboard for BTC, ETH, BNB & DOGE trends | Power BI |
 | [📉 Customer Churn Analysis](https://github.com/Anmol954/Customer-Retention-and-Churn-Analysis) | Churn prediction using SQL, Excel & Tableau | SQL, Tableau |
+| [⚡ ENDEE](https://github.com/Anmol954/ENDEE) | Latest project — actively in development 🔧 | Python |
+| [🎓 Upgrad Completer](https://github.com/Anmol954/upgrad-completer) | Automation tool for Upgrad course workflows | HTML, Python |
 
 ---
 
@@ -117,7 +118,7 @@ class SpiderDev:
 ## 🏆 Achievements — Wall-Crawler Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anmol954&theme=darkhub&column=6&margin-w=10&margin-h=10&title_color=FF0000&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anmol954&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
 </p>
 
 ---
@@ -137,8 +138,8 @@ class SpiderDev:
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF0000" />
   </a>
   &nbsp;
-  <a href="mailto:anmolmadhav954@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF0000" />
+  <a href="mailto:anmolmadhav2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anmolmadhav2004@gmail.com-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF0000" />
   </a>
 </p>
 
@@ -152,8 +153,7 @@ class SpiderDev:
 
 <br>
 
-<!-- Spider-Man Footer Quote -->
-> _"With great data comes great responsibility."_ 🕷️
+> _"With great data comes great responsibility."_ 🕷️  
 > — Anmol Madhav
 
 <!-- Footer Wave -->
