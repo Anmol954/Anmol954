@@ -1,483 +1,418 @@
-# 🕷️ Spidey's Developer Command Center
-
-<div align="center">
-  
-  <!-- CAPSULE RENDER ANIMATED HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff1744&height=300&text=Welcome%20to%20the%20Web&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=Friendly%20Neighborhood%20Developer&descAlignY=70&descAlign=62" width="100%" />
-
-</div>
-
----
-
 <div align="center">
 
-<!-- ANIMATED TYPING INTRO -->
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=FF1744&center=true&vCenter=true&width=900&lines=🕷️+Swinging+Through+Code+%26+Innovation;🧠+Building+AI+%26+Intelligent+Systems;📱+Crafting+Beautiful+Android+Experiences;🌐+Web+Development+%26+Backend+Magic;⚡+Open+Source+Enthusiast" alt="Typing SVG" />
-</h2>
+<!-- Animated Spider Web Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=180&section=header&text=Anmol%20Madhav&fontSize=32&fontColor=E23636&animation=fadeIn&fontAlignY=35&desc=Your%20Friendly%20Neighborhood%20Developer%20|%20AI%20/%20ML%20/%20Full-Stack&descSize=15&descAlignY=55" width="100%" />
 
-**Anmol** | Full-Stack Developer | AI/ML Enthusiast | Android Developer | Web Wizard  
-📍 Jalandhar, Punjab, India 🇮🇳
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&size=17&duration=3000&pause=1000&color=E23636&center=true&vCenter=true&random=false&width=650&lines=+with+Great+Power+Comes+Great+Responsibility;Swinging+Through+Code+%26+Innovation;Building+AI+%26+Intelligent+Systems;Crafting+Beautiful+Android+Experiences;Web+Development+%26+Backend+Magic;Open+Source+Enthusiast" alt="Typing SVG" />
+</a>
 
+<!-- Spiderman Themed Badges -->
+<a href="https://github.com/Anmol954?tab=repositories">
+  <img src="https://img.shields.io/badge/🕷️-Spider--Man_Powered-E23636?style=for-the-badge" />
+</a>
+<img src="https://img.shields.io/badge/🕸️-Web_Slinger-003087?style=for-the-badge" />
+<a href="https://www.google.com/maps/place/Jalandhar,+Punjab,+India">
+  <img src="https://img.shields.io/badge/🏙️-Jalandhar,_Punjab-F5F5F5?style=for-the-badge&color=1a1a2e" />
+</a>
+<img src="https://img.shields.io/badge/⚡-Spidey_Sense-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔴-24_Web_Shots-000000?style=for-the-badge&color=E23636" />
+
+<br><br>
+
+<!-- Animated Spiderman GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjJrNzU3cXNsNzh4aGlnOW81YmY0aTJhMmNqOGRzNndwYXU2eDg1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtj3BwMELj8jfy/giphy.gif" width="120" height="120" alt="Spiderman swinging" />
+
+<!-- Spiderman Logo SVG -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arsho/spiderman-github-readme-stats/main/assets/spiderman-logo.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arsho/spiderman-github-readme-stats/main/assets/spiderman-logo.svg" />
+  <img alt="spiderman-logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Spider-Man_Text_Logo.svg/512px-Spider-Man_Text_Logo.svg.png" style="width:300px;" />
+</picture>
+
+<br><br>
+
+<!-- Snake Animation Card -->
 <a href="https://github.com/Anmol954">
-  <img src="https://img.shields.io/badge/GitHub-Anmol954-FF1744?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/yourlinkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Anmol-FF1744?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-FF1744?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://github.com/Anmol954/Anmol954/blob/output/github-snake-dark.svg?palette=github-dark" alt="Snake animation" style="border-radius:12px;" />
 </a>
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!-- 🕸️ SPIDEY-SENSE STATUS SECTION -->
-<!-- ============================================ -->
+## 🕸️ About Me
 
 <div align="center">
 
-## 🕸️ Spidey-Sense Status
+```text
+ "With great power comes great responsibility."
+```
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  🔴 DANGER LEVEL: ALWAYS CODING      ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🚀 Current Mission:                   ┃
-┃    → Building AI-Powered Solutions    ┃
-┃    → Swinging through Open Source     ┃
-┃                                       ┃
-┃ 📚 Currently Learning:                ┃
-┃    → Advanced LLM Integration         ┃
-┃    → Next-Gen Android Development    ┃
-┃    → Cloud Architecture Patterns      ┃
-┃                                       ┃
-┃ 🤝 Open to Collaboration:             ┃
-┃    → Exciting AI/ML Projects          ┃
-┃    → Open Source Contributions        ┃
-┃    → Innovative Web Solutions         ┃
-┃                                       ┃
-┃ ⚡ Mission Status: ACTIVE             ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+> I'm **Anmol Madhav** — a skilled programmer from Jalandhar, Punjab, India 🇮🇳
+> swinging through the concrete jungle of Python, JavaScript, and Kotlin.
+> I tangle bugs in my web, scale walls of AI architectures,
+> and always keep my spidey-sense tingling for the next big challenge.
+
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%;">
+  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="Spiderman coding" />
+
+- 🔴 **Currently:** Building AI-powered applications & intelligent systems
+- 🕸️ **Learning:** Advanced LLM Integration, Cloud Architecture, Next-Gen Android Dev
+- 🏙️ **Location:** Jalandhar, Punjab, India
+- 💥 **Superpower:** Turning ideas into production-ready Python & JS code
+- 🎯 **Mission:** Merging AI, Web, and Mobile to build the future — one commit at a time
+- 📱 **Android Dev:** Crafting beautiful experiences with Kotlin
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!-- 🧰 GADGETS & GEAR (TECH STACK) -->
-<!-- ============================================ -->
+## 📡 Spidey-Sense Status
 
 <div align="center">
 
-## 🧰 Gadgets & Gear
-
-### Core Arsenal
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-### Web & Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-
-### Mobile Development
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-
-### Backend & Databases
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-
-### AI & Machine Learning
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-
-### DevOps & Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-### APIs & Integration
-<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-
-</div>
-
----
-
-<!-- ============================================ -->
-<!-- 📊 GITHUB STATS & ANALYTICS -->
-<!-- ============================================ -->
-
-<div align="center">
-
-## 📊 Spider-Verse Analytics
-
-<a href="https://github.com/Anmol954">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anmol954&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&text_color=FF1744&title_color=FF1744&icon_color=FF1744" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol954&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FF1744&title_color=FF1744" />
+<!-- Activity & Status Badges -->
+<a href="https://github.com/Anmol954?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anmol954&show_icons=true&theme=maroongold&title_color=E23636&icon_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=16&ring_color=E23636&line_height=30&card_width=500" alt="GitHub Stats" />
 </a>
 
-### 🔥 Streak Counter
-<a href="https://github.com/Anmol954">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol954&theme=radical&hide_border=true&background=0D1117&stroke=FF1744&ring=FF1744&fire=FF1744&currStreakNum=FF1744&sideNums=FF1744&currStreakLabel=FF1744&sideLabels=888888&dates=888888" />
+<br>
+
+<!-- Streak Stats -->
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anmol954&theme=maroongold&background=0d1117&border=E23636&stroke=E23636&ring=E23636&fire=E23636&currStreakLabel=E23636&sideLabels=c9d1d9&dates=555555&border_radius=16" alt="GitHub Streak" />
 </a>
 
-### 🐍 Contribution Animation
-<img src="https://github.com/Anmol954/Anmol954/blob/output/github-contribution-grid-snake-dark.svg" />
+<br>
 
-### 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anmol954&bg_color=0D1117&color=FF1744&line=FF1744&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol954&layout=compact&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=16&langs_count=8&card_width=500" alt="Top Languages" />
+</a>
+
+<br>
+
+<!-- GitHub Activity Graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anmol954&bg_color=0d1117&color=E23636&line=E23636&point=FFD700&area=true&hide_border=true&radius=16" width="95%" alt="Activity Graph" />
+</a>
 
 </div>
 
+### 🎯 Current Missions
+
+| Status | Mission | Progress |
+|--------|---------|----------|
+| 🟢 Active | Building AI & ML Projects (DocuMind, TalkBot, Autism-Prediction) | ████████░░ 80% |
+| 🟡 In Progress | Learning Advanced LLM Integration & LangChain | ██████░░░░ 60% |
+| 🔴 On Alert | Open Source Contributions & Community Projects | ████░░░░░░ 40% |
+| 🕸️ Webbed | Exploring Cloud Architecture Patterns | █████░░░░░ 50% |
+| ⚡ Charged | Android Development with Kotlin | ███████░░░ 70% |
+| 📱 Building | ENDEE & ServiceHive Projects | ██████░░░░ 60% |
+
 ---
 
-<!-- ============================================ -->
-<!-- 🕷️ DAILY BUGLE UPDATES -->
-<!-- ============================================ -->
+## 🛠️ Gadgets & Gear
 
 <div align="center">
 
-## 🕷️ Daily Bugle Updates
+### 🎭 Web-Shooters (Languages)
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,kotlin,html,css,sql&theme=dark" alt="Languages" />
 
-> *"With great code comes great responsibility"* — Uncle Ben (probably about GitHub commits)
+### 🦾 Utility Belt (Frameworks & Libraries)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tailwind,bootstrap,tensorflow&theme=dark" alt="Frameworks" />
 
-### 🏆 Recent Achievements
-
-```
-⭐ Latest Milestones:
-  ✨ Built production-grade AI/ML solutions
-  ✨ Contributed to multiple open-source projects
-  ✨ Mastered full-stack development lifecycle
-  ✨ 500+ GitHub contributions this year
-  ✨ Developing intelligent systems for real-world problems
-```
-
-### 📌 Pinned Projects
-- Check out my **GitHub profile** for live projects & repositories
-- Each repo is crafted with ❤️ and tested with 🧪
+### 🔧 Tech Lab (Tools & Platforms)
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,firebase,mongodb,mysql,androidstudio,figma,postman&theme=dark" alt="Tools" />
 
 </div>
 
----
+<details>
+<summary><strong>🕷️ Expand to see my full Spidey Arsenal</strong></summary>
 
-<!-- ============================================ -->
-<!-- 🚀 MULTIVERSE PROJECTS -->
-<!-- ============================================ -->
+```javascript
+const anmol = {
+  name: "Anmol Madhav",
+  alias: "Spider-Dev",
+  location: "Jalandhar, Punjab, India",
+  code: ["Python", "JavaScript", "TypeScript", "Java", "Kotlin"],
+  webFrameworks: {
+    frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+    backend: ["Flask", "Node.js", "Express"],
+    mobile: ["Android", "Kotlin"]
+  },
+  ai_ml: {
+    frameworks: ["TensorFlow", "LangChain", "OpenAI API"],
+    tools: ["FAISS", "Streamlit", "Jupyter Notebook"]
+  },
+  gadgets: {
+    databases: ["MySQL", "MongoDB", "Firebase"],
+    cloud: ["Docker", "Firebase"],
+    tools: ["Git", "GitHub", "VS Code", "Android Studio", "Postman", "Figma"],
+    apis: ["REST API", "GraphQL"]
+  },
+  superPowers: [
+    "AI/ML Engineering", "Full-Stack Development", "Android Development",
+    "Data Analysis (SQL, Excel, Tableau, Power BI)", "RAG Systems",
+    "Computer Vision", "Voice-Enabled Applications", "Agile Methodology"
+  ],
+  currentMission: "Building AI-powered intelligent systems 🕷️"
+};
+```
 
-<div align="center">
-
-## 🚀 Across the Spider-Verse Projects
-
-*Featured repositories that make the multiverse sing*
-
-| 🌟 Project | 📝 Description | 🔗 Link |
-|-----------|---------------|--------|
-| **AI Project 1** | Building intelligent systems with cutting-edge LLMs | [Repo](#) |
-| **Android App** | Beautiful mobile experience for Android users | [Repo](#) |
-| **Web Platform** | Full-stack web application with modern tech | [Repo](#) |
-| **ML Pipeline** | Machine learning pipeline for data transformation | [Repo](#) |
-| **Open Source** | Contributing to the community & making impact | [Repo](#) |
-
-> **Pro Tip:** Visit my [GitHub Profile](https://github.com/Anmol954) to explore all repositories, stars, and contributions!
-
-</div>
-
----
-
-<!-- ============================================ -->
-<!-- 🧠 SPIDER AI LAB -->
-<!-- ============================================ -->
-
-<div align="center">
-
-## 🧠 Spider AI Lab
-
-*Where intelligent systems come to life*
-
-### 🤖 AI & ML Expertise
-- **Large Language Models (LLMs)** — Integration, fine-tuning, prompt engineering
-- **Deep Learning** — Neural networks, computer vision, NLP
-- **Machine Learning** — Classification, regression, clustering algorithms
-- **Data Science** — Analysis, visualization, model evaluation
-- **AI Integration** — Building production-grade AI solutions
-
-### 🔬 Current Research Interests
-- Multimodal AI Systems
-- Efficient LLM Deployments
-- Real-world AI Applications
-- Ethical AI & Responsible ML
-
-</div>
+</details>
 
 ---
 
-<!-- ============================================ -->
-<!-- ⚡ POWER LEVEL -->
-<!-- ============================================ -->
+## 🌐 My Network
 
 <div align="center">
 
-## ⚡ Power Level
+### 🤝 Allies & Collaborators
 
-### Developer Skills Matrix
-
-**Frontend Development**
-```
-████████████░░░░░░░░ 65%
-```
-
-**Backend Development**
-```
-███████████░░░░░░░░░ 60%
-```
-
-**Mobile Development (Android)**
-```
-███████████░░░░░░░░░ 60%
-```
-
-**AI/ML Engineering**
-```
-██████████░░░░░░░░░░ 55%
-```
-
-**DevOps & Cloud**
-```
-████████░░░░░░░░░░░░ 40%
-```
-
-**Problem Solving**
-```
-██████████████░░░░░░ 75%
-```
-
-**Communication**
-```
-███████████░░░░░░░░░ 60%
-```
-
-</div>
-
----
-
-<!-- ============================================ -->
-<!-- 🌐 MY NETWORK -->
-<!-- ============================================ -->
-
-<div align="center">
-
-## 🌐 Spider-Verse Network
-
-**Let's connect and build amazing things together!**
-
-<a href="https://github.com/Anmol954">
-  <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-FF1744?style=social&logo=github" alt="GitHub" />
-</a>
-<a href="https://linkedin.com/in/yourlinkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-FF1744?style=social&logo=linkedin" alt="LinkedIn" />
-</a>
-<a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-FF1744?style=social&logo=gmail" alt="Email" />
-</a>
-<a href="https://twitter.com/yourtwitter">
-  <img src="https://img.shields.io/badge/Twitter-Follow-FF1744?style=social&logo=twitter" alt="Twitter" />
-</a>
-
-### 📊 Follower Stats
+<!-- GitHub Followers & Following -->
 <a href="https://github.com/Anmol954?tab=followers">
-  <img src="https://img.shields.io/github/followers/Anmol954?style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Followers-1-E23636?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Anmol954?tab=following">
+  <img src="https://img.shields.io/badge/Following-0-003087?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Anmol954?tab=repositories">
+  <img src="https://img.shields.io/badge/Public_Repos-24-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<br><br>
+
+<!-- Connect With Me Badges -->
+<a href="https://linkedin.com/in/yourlinkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:youremail@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Anmol954">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+### 🏆 Open Source Contributions
+
+<div align="center">
+
+<!-- Trophy -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anmol954&theme=maroongold&no-frame=true&no-bg=true&column=7&margin-w=8&border_radius=16" width="100%" alt="Trophies" />
+</a>
+
+</div>
+
+### 🎮 Team-Up Requests (Open to Collaboration)
+
+| Project | Role | Tech Stack | Status |
+|---------|------|------------|--------|
+| DocuMind | AI Engineer | Python + FAISS + OpenAI + Flask | 🟢 Completed |
+| TalkBot | Full Stack | Python + OpenAI + SpeechRecognition + Flask | 🟢 Completed |
+| AI Wealth Management | Frontend Dev | JavaScript | 🕸️ In Progress |
+| ServiceHive Assignment | Backend Dev | Python | 🟡 In Progress |
+| Customer Retention Analysis | Data Analyst | SQL + Excel + Tableau | 🟢 Completed |
+| Crypto Market Dashboard | Data Viz | Power BI + Crypto APIs | 🟢 Completed |
+
+---
+
+## 🎬 Spidey's Lab (Featured Projects)
+
+<div align="center">
+
+<!-- Pinned Repo Cards -->
+
+<a href="https://github.com/Anmol954/DocuMind">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=DocuMind&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&icon_color=E23636&hide_border=true&border_radius=16&show_icons=true&description_lines_count=3" width="45%" alt="DocuMind" />
+</a>
+<a href="https://github.com/Anmol954/Mini-JARVIS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=Mini-JARVIS&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&icon_color=E23636&hide_border=true&border_radius=16&show_icons=true&description_lines_count=3" width="45%" alt="Mini-JARVIS" />
+</a>
+
+<a href="https://github.com/Anmol954/TalkBot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=TalkBot&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&icon_color=E23636&hide_border=true&border_radius=16&show_icons=true&description_lines_count=3" width="45%" alt="TalkBot" />
+</a>
+<a href="https://github.com/Anmol954/AI_Wealth_Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=AI_Wealth_Management&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&icon_color=E23636&hide_border=true&border_radius=16&show_icons=true&description_lines_count=3" width="45%" alt="AI Wealth Management" />
+</a>
+
+<a href="https://github.com/Anmol954/Crypto-Market-Trends-Dashboard">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=Crypto-Market-Trends-Dashboard&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&icon_color=E23636&hide_border=true&border_radius=16&show_icons=true&description_lines_count=3" width="45%" alt="Crypto Dashboard" />
+</a>
+<a href="https://github.com/Anmol954/Customer-Retention-and-Churn-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anmol954&repo=Customer-Retention-and-Churn-Analysis&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&icon_color=E23636&hide_border=true&border_radius=16&show_icons=true&description_lines_count=3" width="45%" alt="Customer Churn Analysis" />
 </a>
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!-- 🏙️ CODING PHILOSOPHY -->
-<!-- ============================================ -->
+## 🧠 AI/ML Arsenal (Spider-Bots)
 
 <div align="center">
 
-## 🏙️ Coding Philosophy
+> *"My Spider-Sense tingles every time a new AI model drops."*
 
-> **"The only way to do great work is to love what you do."** — Steve Jobs
-
-### My Developer Manifesto
-
-```
-🕷️  Code with purpose, build with passion
-    Write code that scales, think about problems
-    
-⚡  Performance first, always optimize
-    User experience is king, never compromise
-    
-🧠  Learn continuously, never stop growing
-    Share knowledge, lift others up
-    
-🌐  Open source > closed source
-    Community over competition
-    
-❤️  Build things you believe in
-    Make a difference, create impact
-```
+| Project | Type | Tech | Description |
+|---------|------|------|-------------|
+| 🤖 **DocuMind** | RAG System | FAISS + OpenAI + Flask | Query PDFs in natural language with context-aware answers |
+| 🎙️ **TalkBot** | Voice Chatbot | SpeechRecognition + GPT + Flask | Voice-enabled AI assistant with STT and TTS |
+| 🧠 **Autism-Prediction** | ML Model | Python + Jupyter | ML-based autism spectrum disorder prediction system |
+| 🌞 **Solar-Irradiance** | ML Prediction | Python + Jupyter | Predicting solar irradiance using machine learning |
+| 🛒 **Product-Recommendation** | ML Engine | Python | Smart product recommendation system |
+| 🏪 **Store-Intelligence** | Computer Vision | Python | CV system for retail store intelligence from production to API |
+| 📊 **Electric-Vehicle Analysis** | Data Analysis | Jupyter Notebook | EV market data analysis and insights |
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!-- 📈 CONTRIBUTION INSIGHTS -->
-<!-- ============================================ -->
+## 📱 Android & Web Projects
 
 <div align="center">
 
-## 📈 Contribution Insights
-
-<img src="https://github.com/Anmol954/Anmol954/raw/main/profile-3d-contrib/profile-night-rainbow.svg" />
+| Project | Platform | Tech | Description |
+|---------|----------|------|-------------|
+| 📱 **Android-Projects** | Android | Kotlin | Native Android application development |
+| 🌐 **Multi-Language App** | Android | Kotlin | Multi-language support Android application |
+| 🎲 **Snakes & Ladders** | Web | HTML/CSS/JS | Classic board game web implementation |
+| 💰 **Basic Bill Generator** | Desktop | Java | Bill generation system in Java |
+| 🎮 **Quiz Game** | Desktop | Python | Interactive quiz game built with Python |
 
 </div>
 
 ---
 
-<!-- ============================================ -->
-<!-- 💡 QUICK START GUIDE -->
-<!-- ============================================ -->
+## 🕸️ Web of Knowledge (Learning Path)
 
-<div align="center">
-
-## 💡 How to Build Your Own Spider-Verse
-
-Want to create an awesome GitHub profile like this? Here's what you need:
-
-1. **Create a Repository** named `Anmol954` (your GitHub username)
-2. **Add a README.md** in the root folder
-3. **Use Dynamic APIs:**
-   - [Capsule Render](https://capsule-render.vercel.app/) for headers
-   - [Typing SVG](https://readme-typing-svg.herokuapp.com/) for animations
-   - [GitHub Stats](https://github-readme-stats.vercel.app/) for analytics
-   - [Streak Stats](https://github-readme-streak-stats.herokuapp.com/) for tracking
-
-4. **Customize** colors, links, and sections
-5. **Push & Watch** your profile come alive! 🚀
-
-</div>
-
----
-
-<!-- ============================================ -->
-<!-- 🎬 FOOTER SECTION -->
-<!-- ============================================ -->
-
-<div align="center">
-
-<br/>
-
-### 🎬 Final Scene
-
-```
-     ___
-    / o \_
-   ( =^.^= )  Friendly Neighborhood Code Cat approves! 🐱
-    ")_(" 
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#E23636', 'primaryTextColor': '#ffffff', 'primaryBorderColor': '#E23636', 'lineColor': '#FFD700', 'secondaryColor': '#003087', 'tertiaryColor': '#1a1a2e', 'fontFamily': 'Red Hat Mono'}}}%%
+graph TD
+    A[Anmol Madhav] --> B[Python]
+    A --> C[JavaScript]
+    A --> D[Java]
+    A --> E[Kotlin]
+    B --> F[Flask + OpenAI]
+    B --> G[TensorFlow + ML]
+    C --> H[React + Node.js]
+    E --> I[Android Dev]
+    F --> J[DocuMind + TalkBot]
+    G --> K[Autism-Prediction + Solar-Prediction]
+    H --> L[AI Wealth Management]
+    I --> M[Android Projects]
+    J --> N[Full-Stack AI Hero]
+    K --> N
+    L --> N
+    M --> N
 ```
 
-> **"I'm not the only one who can throw a punch. Or in this case, commit some code."**
-
 ---
 
-<h3>✨ Thanks for Swinging By! ✨</h3>
+## 📊 Spidey Metrics Dashboard
 
-<img src="https://komarev.com/ghpvc/?username=Anmol954&label=Profile+Views&color=FF1744&style=for-the-badge" alt="Profile Views" />
+<div align="center">
 
-<p>
-  <strong>Made with ❤️ and a bit of <span style="color: #FF1744;">🕷️ Spider Magic</span></strong>
-</p>
+<!-- GitHub Profile Summary Cards -->
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anmol954&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_radius=16" alt="Profile Details" />
+</a>
 
-<p>
-  <em>May your commits be clean and your deployments be swift!</em>
-</p>
+<br>
 
-### 🔗 Quick Links
-[GitHub](https://github.com/Anmol954) • [LinkedIn](https://linkedin.com/in/yourlinkedin) • [Portfolio](https://yourportfolio.com) • [Email](mailto:youremail@gmail.com)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1744&height=100&section=footer&textBg=false" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anmol954&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_radius=16" alt="Repos Per Language" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anmol954&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_radius=16" alt="Most Commit Language" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol954&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_radius=16" alt="Stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anmol954&theme=maroongold&title_color=E23636&text_color=c9d1d9&bg_color=0d1117&border_radius=16&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
-<!-- ============================================ -->
-<!-- NOTES FOR CUSTOMIZATION -->
-<!-- ============================================ -->
+---
 
-<!--
-🎯 CUSTOMIZATION GUIDE:
+## 🦸 Quotes from the Spider-Verse
 
-1. PERSONAL INFO:
-   - Replace "Anmol954" with your GitHub username in all links
-   - Update email: youremail@gmail.com → your actual email
-   - Update LinkedIn URL with your profile link
-   - Update Twitter handle if you have one
+<div align="center">
 
-2. TECH STACK:
-   - Remove badges you don't use
-   - Add new badges using shields.io (img.shields.io)
-   - Organize by skill level/experience
+> *"Anyone can wear the mask. You could wear the mask."*
+> — Spider-Man: Into the Spider-Verse
 
-3. FEATURED PROJECTS:
-   - Replace project names and descriptions
-   - Add actual repository links
-   - Update project order based on priority
+> *"With great power comes great responsibility."*
+> — Uncle Ben Parker
 
-4. GITHUB STATS:
-   - Stats update automatically based on username
-   - Streak counter syncs with your contributions
-   - Top languages update in real-time
+> *"I'm skilled Programmer in Python, CSS and JavaScript — and I'm just getting started."*
+> — Anmol Madhav
 
-5. ANIMATIONS:
-   - Capsule Render: Customize colors (use hex codes)
-   - Typing SVG: Edit text in the 'lines' parameter
-   - Snake animation: Generate at github-profile-snake
+</div>
 
-6. COLORS:
-   - Primary: FF1744 (Spider-Man Red)
-   - Secondary: 0D1117 (Dark Background)
-   - Accent: FFFFFF (White/Highlights)
+---
 
-7. SOCIAL LINKS:
-   - Update all badge links to real URLs
-   - Add platforms relevant to you
-   - Keep follower badge accurate
+<div align="center">
 
-8. PORTFOLIO & LINKS:
-   - Add your actual portfolio URL
-   - Include blog/medium links if applicable
-   - Link to projects you're proud of
+<!-- Footer with animated web -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer&text=Built%20with%20🕷️%20and%20❤️%20by%20Anmol&fontSize=18&fontColor=E23636&animation=fadeIn&fontAlignY=50" width="100%" />
 
-RESPONSIVE DESIGN:
-- Mobile friendly ✓
-- Dark mode optimized ✓
-- Light mode compatible ✓
-- All images have fallback text ✓
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=Anmol954&color=E23636&style=for-the-badge&label=SPIDERS+DETECTED&label_color=0d1117" alt="Profile Views" />
 
-PERFORMANCE:
-- Uses lightweight shields.io badges ✓
-- Minimal external dependencies ✓
-- Loads fast on all connections ✓
-- No broken image links ✓
+<br><br>
 
-Ready to go live? Push this to your GitHub profile repo and watch the magic happen! 🎉
+<!-- GitHub Stats Badge -->
+<img src="https://img.shields.io/badge/GitHub-Anmol954-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Joined-Nov%202022-E23636?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-AI_%2F_ML_%2F_Full_Stack_%2F_Android-FFD700?style=for-the-badge&color=0d1117&labelColor=FFD700" />
 
--->
+</div>
+
+---
+
+<details>
+<summary><strong>🕷️ The Secret Web (Hidden Config)</strong></summary>
+
+```json
+{
+  "name": "Anmol Madhav",
+  "username": "Anmol954",
+  "alias": "Spider-Dev",
+  "location": "Jalandhar, Punjab, India",
+  "occupation": "Full-Stack Developer | AI/ML Enthusiast | Android Developer",
+  "education": "B.Tech, Computer Science",
+  "motto": "With great power comes great responsibility",
+  "skills": {
+    "primary": ["Python", "JavaScript", "Kotlin"],
+    "secondary": ["TypeScript", "Java", "HTML5", "CSS3"],
+    "ai_ml": ["TensorFlow", "OpenAI", "LangChain", "FAISS"],
+    "mobile": ["Android", "Kotlin"],
+    "backend": ["Flask", "Node.js", "Express"],
+    "frontend": ["React", "Tailwind CSS", "Bootstrap"],
+    "databases": ["MySQL", "MongoDB", "Firebase"],
+    "tools": ["Git", "Docker", "VS Code", "Android Studio", "Postman"],
+    "data_viz": ["Power BI", "Tableau", "Excel"]
+  },
+  "workspace": {
+    "editor": "VS Code",
+    "os": "Windows",
+    "browser": "Chrome"
+  },
+  "currently_learning": [
+    "Advanced LLM Integration",
+    "Next-Gen Android Development",
+    "Cloud Architecture Patterns"
+  ]
+}
+```
+
+</details>
+
+---
+
+<!-- Spinning Web Easter Egg -->
+<div align="center">
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="Spinning Web" />
+</div>
