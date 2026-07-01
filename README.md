@@ -1,636 +1,563 @@
-# 🕷️ ANMOL'S DEVELOPER UNIVERSE 🕷️
+<a name="top"></a>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 1. PREMIUM ANIMATED HEADER — Capsule Render + Wave + Gradient         -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=500&color=FF1744&center=true&vCenter=true&width=1000&height=100&lines=⚡+ANMOL+MADHAV+⚡;🕷️+Full+Stack+Developer;🧠+AI%2FML+Architect;💻+Python+%7C+JavaScript+%7C+CSS;🚀+Building+Intelligent+Systems)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,25:1E3A8A,50:7C3AED,75:06B6D4,100:0A0E27&height=240&section=header&text=Hi%20%E2%9C%8B%20I'm%20Anmol%20Madhav&fontAlign=46&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Turning%20Data%20into%20Decisions&descSize=18&descColor=06B6D4&descAlignY=58&animation=fadeIn&stroke=06B6D4&strokeWidth=2" width="100%" alt="header"/>
+
+<!-- Subtle wave divider -->
+<img src="https://raw.githubusercontent.com/Anmol954/Anmol954/main/assets/wave.svg" width="100%" height="40" onerror="this.style.display='none'"/>
 
 </div>
 
----
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 2. TYPING ANIMATION — Continuous Loop                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🌟 Welcome to My Developer Hub
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=600&height=80&lines=%E2%9A%A1+Data+Analyst;%E2%9A%A1+Business+Analyst;%E2%9A%A1+Machine+Learning+Enthusiast;%E2%9A%A1+Data+Engineer;%E2%9A%A1+Full+Stack+Developer;%E2%9A%A1+Problem+Solver" alt="Typing SVG" /></a>
 
-<p>
-  <strong>Skilled Programmer in Python, CSS, and JavaScript</strong><br>
-  Building intelligent systems, data-driven solutions, and AI-powered applications
+</div>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 3. PROFESSIONAL BANNER                                                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,6,12,18,24&height=180&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=34&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&desc=%F0%9F%90%8D%20Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20Tableau%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI%20%E2%80%A2%20Graphs&descSize=16&descColor=06B6D4&animation=blinking&stroke=7C3AED" width="100%" alt="banner"/>
+
+</div>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 4. ABOUT ME — Glassmorphism Cards                                     -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" height="40" alt="about"/> &nbsp; About Me &nbsp; <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" height="40" alt="about"/>
+
+</div>
+
+<table align="center" style="border:none;border-collapse:collapse;">
+  <tr>
+    <td align="center" width="200" style="padding:14px;border-radius:12px;background:rgba(30,58,138,0.15);border:1px solid rgba(6,182,212,0.3);">
+      <img src="https://img.shields.io/badge/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-Name-blue?style=for-the-badge&logoColor=white&labelColor=0A0E27"/>
+      <br><sub><b>Anmol Madhav</b></sub>
+    </td>
+    <td align="center" width="200" style="padding:14px;border-radius:12px;background:rgba(124,58,237,0.15);border:1px solid rgba(6,182,212,0.3);">
+      <img src="https://img.shields.io/badge/%F0%9F%8E%93-B.Tech%20CSE-purple?style=for-the-badge&labelColor=0A0E27"/>
+      <br><sub><b>Computer Science</b></sub>
+    </td>
+    <td align="center" width="200" style="padding:14px;border-radius:12px;background:rgba(6,182,212,0.15);border:1px solid rgba(6,182,212,0.3);">
+      <img src="https://img.shields.io/badge/%F0%9F%93%8D-India-cyan?style=for-the-badge&labelColor=0A0E27"/>
+      <br><sub><b>Based in India</b></sub>
+    </td>
+  </tr>
+  <tr><td colspan="3" style="border:none;">&nbsp;</td></tr>
+  <tr>
+    <td align="center" width="200" style="padding:14px;border-radius:12px;background:rgba(30,58,138,0.15);border:1px solid rgba(6,182,212,0.3);">
+      <img src="https://img.shields.io/badge/%F0%9F%92%BC-Internship%20Seeker-blue?style=for-the-badge&labelColor=0A0E27"/>
+      <br><sub><b>Open to Work</b></sub>
+    </td>
+    <td align="center" width="200" style="padding:14px;border-radius:12px;background:rgba(124,58,237,0.15);border:1px solid rgba(6,182,212,0.3);">
+      <img src="https://img.shields.io/badge/%F0%9F%93%88-Loves%20Data-purple?style=for-the-badge&labelColor=0A0E27"/>
+      <br><sub><b>Data Driven</b></sub>
+    </td>
+    <td align="center" width="200" style="padding:14px;border-radius:12px;background:rgba(6,182,212,0.15);border:1px solid rgba(6,182,212,0.3);">
+      <img src="https://img.shields.io/badge/%F0%9F%9A%80-Always%20Learning-cyan?style=for-the-badge&labelColor=0A0E27"/>
+      <br><sub><b>Growing Daily</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 5. ANIMATED CODING GIF                                                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+
+</div>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 6. TECH STACK — Categorised Icons                                     -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WFZvYbsIDclHnIMnZ8/giphy.gif" width="42" height="42" alt="tech"/> &nbsp; Tech Stack &nbsp; <img src="https://media.giphy.com/media/WFZvYbsIDclHnIMnZ8/giphy.gif" width="42" height="42" alt="tech"/>
+
+</div>
+
+<table align="center" style="border:none;">
+  <tr>
+    <td align="center" valign="top" width="50%" style="border:none;padding:8px;">
+
+<h3 align="center">🔤 Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<a href="https://github.com/Anmol954">
-  <img src="https://img.shields.io/badge/GitHub-Anmol954-FF1744?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-</a>
-<a href="https://github.com/Anmol954?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-Growing-FF1744?style=for-the-badge&labelColor=0D1117" alt="Followers" />
-</a>
-<a href="https://github.com/Anmol954?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-19-FF1744?style=for-the-badge&labelColor=0D1117" alt="Repos" />
-</a>
+<h3 align="center">🎨 Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-</div>
+<h3 align="center">⚙️ Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
 
----
-
-<div align="center">
-
-## 📊 REAL-TIME SPIDER-VERSE ANALYTICS
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Anmol954&theme=radical&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&bg_color=0D1117&text_color=FF1744&title_color=FF1744&icon_color=FF1744&ring_color=FF1744&border_radius=10" width="100%" alt="GitHub Stats"/>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol954&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FF1744&title_color=FF1744&langs_count=8&border_radius=10" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+    <td align="center" valign="top" width="50%" style="border:none;padding:8px;">
 
-### 🔥 CONTRIBUTION STREAK
-<a href="https://github.com/Anmol954">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol954&theme=radical&hide_border=true&background=0D1117&stroke=FF1744&ring=FF1744&fire=FF1744&currStreakNum=FF1744&sideNums=FF1744&currStreakLabel=FF1744&sideLabels=888888&dates=888888&date_format=M%20j%5B%2c%20Y%5D" width="100%" alt="Streak Stats"/>
-</a>
+<h3 align="center">🗄️ Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
 
-</div>
+<h3 align="center">📊 Analytics</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
----
+<h3 align="center">🛠️ Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
 
-<div align="center">
-
-## 🕸️ SPIDEY-SENSE STATUS
-
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃           🔴 ALERT SYSTEM ACTIVE 🔴            ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃                                                 ┃
-┃ 🚀 CURRENT MISSIONS:                            ┃
-┃    ✓ AI-Powered Wealth Management Systems       ┃
-┃    ✓ Document Intelligence (RAG Systems)       ┃
-┃    ✓ Crypto Market Analysis & Dashboards       ┃
-┃    ✓ Autism Prediction ML Models               ┃
-┃    ✓ Voice-Controlled AI Assistant (JARVIS)   ┃
-┃    ✓ Customer Churn Prediction Analytics       ┃
-┃                                                 ┃
-┃ 🧠 ACTIVE LEARNING:                            ┃
-┃    → Advanced LLM Integration & RAG Systems    ┃
-┃    → Production-Grade Machine Learning         ┃
-┃    → Full-Stack Web Development                ┃
-┃    → Data-Driven Decision Systems              ┃
-┃                                                 ┃
-┃ 🤝 COLLABORATION INTERESTS:                     ┃
-┃    → AI/ML Research Projects                   ┃
-┃    → Open Source Contributions                 ┃
-┃    → Innovative FinTech Solutions              ┃
-┃    → Healthcare Analytics                      ┃
-┃                                                 ┃
-┃ ⚡ MISSION STATUS: ACTIVE & GROWING             ┃
-┃ 💪 POWER LEVEL: ASCENDING                       ┃
-┃                                                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🧰 GADGETS & GEAR (TECH ARSENAL)
-
-### 🐍 Python Powerhouse
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-
-### 🧠 AI & Machine Learning
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-
-### 💻 Web Development
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-### 📊 Data & Analytics
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-### 🗄️ Databases & APIs
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
-
-### 🛠️ Development Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 ACROSS THE SPIDER-VERSE: FEATURED PROJECTS
-
-### ⭐ FLAGSHIP PROJECTS
-
-#### 1. 🤖 **AI Wealth Management System**
-<a href="https://github.com/Anmol954/AI_Wealth_Management">
-  <img src="https://img.shields.io/badge/Live%20Repo-JavaScript-FF1744?style=flat-square&logo=github" />
-</a>
-
-> Intelligent financial system leveraging AI for wealth optimization, portfolio analysis, and investment recommendations. Built with modern JavaScript stack for real-time market insights and predictive analytics.
-
-**Tech Stack:** JavaScript, AI/ML, Financial APIs
-
----
-
-#### 2. 📄 **DocuMind - Intelligent Document QA System**
-<a href="https://github.com/Anmol954/DocuMind">
-  <img src="https://img.shields.io/badge/Live%20Repo-Python-FF1744?style=flat-square&logo=github" />
-</a>
-
-> A cutting-edge Retrieval-Augmented Generation (RAG) system that transforms how users interact with PDF documents. Ask questions in natural language and get context-aware answers powered by OpenAI GPT and FAISS embeddings.
-
-**Key Features:**
-- 🔍 Natural language PDF querying
-- 🧠 FAISS-based semantic search
-- 🤖 GPT-powered intelligent responses
-- 📚 Multi-document analysis
-
-**Tech Stack:** Python, LangChain, OpenAI, FAISS, Streamlit
-
----
-
-#### 3. 🎤 **Mini-JARVIS - Voice-Controlled AI Assistant**
-<a href="https://github.com/Anmol954/Mini-JARVIS">
-  <img src="https://img.shields.io/badge/Live%20Repo-Python-FF1744?style=flat-square&logo=github" />
-</a>
-
-> A sophisticated voice-controlled AI assistant inspired by JARVIS from Iron Man. Give commands to your system and watch them execute automatically with natural language processing and automation.
-
-**Features:**
-- 🎤 Voice recognition & command processing
-- ⚙️ Automated system control
-- 🤖 Natural language understanding
-- 💬 Contextual responses
-
-**Tech Stack:** Python, Speech Recognition, AI NLP
-
----
-
-#### 4. 🔐 **Autism Prediction ML Model**
-<a href="https://github.com/Anmol954/Autism-Prediction">
-  <img src="https://img.shields.io/badge/Live%20Repo-Jupyter%20Notebook-FF1744?style=flat-square&logo=github" />
-</a>
-
-> Advanced machine learning model for autism spectrum disorder prediction using behavioral and demographic data. Implements multiple algorithms with comprehensive model evaluation and feature importance analysis.
-
-**Tech Stack:** Python, Scikit-Learn, TensorFlow, Pandas, Jupyter
-
----
-
-#### 5. 📊 **Crypto Market Trends Dashboard**
-<a href="https://github.com/Anmol954/Crypto-Market-Trends-Dashboard">
-  <img src="https://img.shields.io/badge/Live%20Repo-Power%20BI-FF1744?style=flat-square&logo=github" />
-</a>
-
-> Interactive Power BI dashboard analyzing historical market data for Bitcoin, Ethereum, Binance Coin, and Dogecoin. Provides deep insights into price trends, market patterns, volatility analysis, and trading opportunities.
-
-**Insights Provided:**
-- 📈 Historical price trends & patterns
-- 🔄 Market volatility analysis
-- 💡 Trading opportunity identification
-- 🎯 Predictive trend analysis
-
-**Tech Stack:** Power BI, SQL, Data Analysis
-
----
-
-#### 6. 👥 **Customer Retention & Churn Analysis**
-<a href="https://github.com/Anmol954/Customer-Retention-and-Churn-Analysis">
-  <img src="https://img.shields.io/badge/Live%20Repo-Tableau-FF1744?style=flat-square&logo=github" />
-</a>
-
-> Data-driven analysis identifying key factors influencing customer attrition. Segments high-value users and provides actionable retention strategies using SQL, Excel, and Tableau visualizations.
-
-**Analysis Components:**
-- 🔍 Churn factor identification
-- 👥 Customer segmentation
-- 💼 Retention strategy recommendations
-- 📊 Interactive Tableau dashboards
-
-**Tech Stack:** SQL, Excel, Tableau, Data Analytics
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 SPIDER AI LAB - INTELLIGENCE DIVISION
-
-### Advanced AI/ML Capabilities
-
-**Machine Learning Specialization:**
-```
-Classification Models     ██████████░░ 85%
-Predictive Analytics     █████████░░░ 80%
-NLP & Text Processing   ████████░░░░ 75%
-Data Analysis & Viz     ██████████░░ 85%
-RAG & LLM Systems       █████████░░░ 80%
-```
-
-**Key Competencies:**
-- 🧠 **LLM Integration** — OpenAI GPT models, prompt engineering, RAG systems
-- 🤖 **Deep Learning** — TensorFlow, neural networks, computer vision fundamentals
-- 📊 **Data Science** — Statistical analysis, feature engineering, model evaluation
-- 🎯 **Predictive Modeling** — Classification, regression, time-series forecasting
-- 📈 **Business Intelligence** — Dashboard design, data storytelling, actionable insights
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ POWER LEVEL - SKILL MATRIX
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Python & Backend</strong><br>
-      ████████████░░░░░░░ 85%
-    </td>
-    <td align="center">
-      <strong>Data Science & ML</strong><br>
-      ███████████░░░░░░░░ 80%
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>AI/LLM Systems</strong><br>
-      ███████████░░░░░░░░ 80%
-    </td>
-    <td align="center">
-      <strong>Frontend Web Dev</strong><br>
-      █████████░░░░░░░░░░ 70%
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Data Analytics</strong><br>
-      ████████████░░░░░░░ 85%
-    </td>
-    <td align="center">
-      <strong>Database Design</strong><br>
-      ██████████░░░░░░░░░ 75%
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>Problem Solving</strong><br>
-      █████████████░░░░░░ 90%
-    </td>
-    <td align="center">
-      <strong>Project Management</strong><br>
-      ███████████░░░░░░░░ 80%
     </td>
   </tr>
 </table>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 📈 CONTRIBUTION ACTIVITY
-
-### 🐍 Contribution Animation
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Anmol954&bg_color=0D1117&color=FF1744&line=FF1744&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 7. GITHUB STATISTICS — 2x2 Premium Grid                               -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🎯 MISSION HIGHLIGHTS & ACHIEVEMENTS
-
-### 🏆 What I'm Known For
-
-```
-✨ Building intelligent systems that solve real problems
-🤖 Creating AI-powered solutions for diverse domains  
-📊 Transforming data into actionable business insights
-🧠 Developing sophisticated machine learning models
-💡 Innovating in fintech, healthcare, and automation
-🔗 Bridging the gap between AI and practical applications
-```
-
-### 🚀 Notable Accomplishments
-
-- ✅ **19 Public Repositories** — Showcasing diverse skill set
-- ✅ **5 Starred Projects** — Community recognition
-- ✅ **Pull Shark Achievement** — Active open source contributor
-- ✅ **Full-Stack Expertise** — Frontend to Backend to ML/AI
-- ✅ **Real-World Impact** — Projects addressing actual problems
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOHfW/giphy.gif" width="42" height="42" alt="stats"/> &nbsp; GitHub Statistics &nbsp; <img src="https://media.giphy.com/media/du3J3cXyzhj75IOHfW/giphy.gif" width="42" height="42" alt="stats"/>
 
 </div>
 
----
-
 <div align="center">
 
-## 🌐 SPIDER-VERSE NETWORK & CONNECTIONS
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anmol954&show_icons=true&theme=radical&hide_border=true&bg_color=0A0E27&title_color=06B6D4&icon_color=7C3AED&text_color=FFFFFF"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol954&layout=compact&theme=radical&hide_border=true&bg_color=0A0E27&title_color=06B6D4&text_color=FFFFFF"/>
 
-### Let's Connect & Collaborate!
+<br><br>
 
-<a href="https://github.com/Anmol954">
-  <img src="https://img.shields.io/badge/GitHub-Anmol954-FF1744?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/Anmol954?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-Join%20The%20Web-FF1744?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-### 📌 Quick Links
-- 🔗 **19 Repositories** — [Explore All Projects](https://github.com/Anmol954?tab=repositories)
-- ⭐ **Achievements** — [View GitHub Achievements](https://github.com/Anmol954?tab=achievements)
-- 📊 **Contribution Graph** — Real-time activity tracking
-- 🎓 **Continuous Learning** — Always exploring new technologies
-
-### 💼 Collaboration Opportunities
-
-Interested in working together? I'm open to:
-- 🤝 **Open Source Projects** — Contributing to impactful initiatives
-- 💡 **Innovative Startups** — Building next-generation solutions
-- 🔬 **Research & Development** — Exploring cutting-edge AI/ML
-- 📚 **Knowledge Sharing** — Mentoring and technical discussions
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmol954&theme=radical&hide_border=true&background=0A0E27&stroke=06B6D4&ring=7C3AED&fire=06B6D4&currStreakLabel=06B6D4"/>
+&nbsp;
+<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol954&theme=react-dark&hide_border=true&bg_color=0A0E27&color=06B6D4&line=7C3AED&point=06B6D4&area=true&area_color=1E3A8A"/>
 
 </div>
 
----
+<br>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 8. CONTRIBUTION SNAKE ANIMATION                                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🎬 CODING PHILOSOPHY
+### 🐍 Contribution Snake — Watch it eat my commits!
 
-### My Developer Manifesto
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmol954/Anmol954/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmol954/Anmol954/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Anmol954/Anmol954/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
-```
-╔════════════════════════════════════════════════════╗
-║        THE SPIDEY CODE: A DEVELOPER'S OATH         ║
-╚════════════════════════════════════════════════════╝
-
-🕷️  Code with Purpose
-    Every line should solve a problem or enable new possibilities
-    Write code that matters, not just code that works
-
-💡  Solve Real Problems
-    Technology serves humanity
-    Build solutions that create tangible impact
-    Focus on user needs, not ego
-
-🧠  Never Stop Learning
-    The tech landscape evolves daily
-    Stay curious, experiment boldly
-    Embrace failure as a teacher
-
-🤝  Share & Uplift
-    Open source > closed source mentality
-    Lift others as you climb
-    Documentation is as important as code
-
-⚡  Performance & Quality First
-    Fast code is better than slow code
-    Clean code is better than clever code
-    Testing is not optional, it's mandatory
-
-🌐  Think Big, Ship Fast
-    Dream ambitious, iterate aggressively
-    Perfection is the enemy of progress
-    Launch, learn, improve, repeat
-
-❤️  Code with Empathy
-    Your code will be read by humans
-    Make it readable, maintainable, elegant
-    Future you will thank present you
-```
+> _Enable the snake action — see setup notes at the bottom of this README._
 
 </div>
 
----
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 9. 3D CONTRIBUTION CALENDAR                                           -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📚 CONTINUOUS LEARNING JOURNEY
+### 🧊 3D Contribution Calendar
 
-### Currently Exploring
-- 🚀 Advanced LLM fine-tuning & RAG optimization
-- 🤖 Multi-agent AI systems & orchestration
-- 📊 Advanced time-series forecasting models
-- 🏗️ Production ML/AI deployment patterns
-- 🔐 Responsible AI & model interpretability
-
-### Technical Depth
-- Deep expertise in Python ecosystem
-- Advanced SQL & database optimization
-- Modern web architecture & design patterns
-- Machine learning pipeline development
-- Data visualization & storytelling
+<img src="https://github-readme-3d-contrib.vercel.app/api?username=Anmol954&theme=dark&width=100%" alt="3D Contributions"/>
 
 </div>
 
----
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 10. PROFILE BADGES — Curated & Meaningful                             -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🏙️ THE TECH LANDSCAPE
+### 📛 Profile Badges
 
-> "With great code comes great responsibility" 💪
+<img src="https://img.shields.io/badge/Open%20Source-♥-blue?style=flat-square&logo=opensource&logoColor=white&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/Python-Ready-purple?style=flat-square&logo=python&logoColor=white&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/SQL-Pro-cyan?style=flat-square&logo=postgresql&logoColor=white&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-On-blueviolet?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/Data%20Science-📊-blue?style=flat-square&logoColor=white&labelColor=0A0E27"/>
+<img src="https://img.shields.io/badge/GitHub-Followers-purple?style=flat-square&logo=github&logoColor=white&labelColor=0A0E27"/>
+<img src="https://komarev.com/ghpvc/?username=Anmol954&style=flat-square&label=Profile+Views&color=06B6D4&labelColor=0A0E27"/>
 
-<table width="100%">
+</div>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 11. TROPHY SECTION                                                    -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" width="42" height="42" alt="trophy"/> &nbsp; GitHub Trophies &nbsp; <img src="https://media.giphy.com/media/3oEjI5VtIhHvK37WYo/giphy.gif" width="42" height="42" alt="trophy"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anmol954&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+
+</div>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 12. DYNAMIC QUOTE                                                     -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+### 💡 Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true&bg_color=0A0E27&quote_color=FFFFFF&accent_color=06B6D4"/>
+
+</div>
+
+<br>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 13. FEATURED PROJECTS — Premium Cards                                  -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEhpmwe4g6/giphy.gif" width="42" height="42" alt="projects"/> &nbsp; Featured Projects &nbsp; <img src="https://media.giphy.com/media/QssGEmpkyEhpmwe4g6/giphy.gif" width="42" height="42" alt="projects"/>
+
+</div>
+
+<table align="center" style="border:none;">
   <tr>
-    <td width="33%" align="center">
-      <h3>🎯 Problem Solver</h3>
-      <p>Transforming complex challenges into elegant solutions</p>
+    <!-- Project 1 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(30,58,138,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">🕷️ Spider-Verse Portfolio</h3>
+      <p align="center"><em>A Spider-Man themed animated developer portfolio with parallax, particles and neon UI.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>🧠 Innovator</h3>
-      <p>Pushing boundaries of what's possible with AI/ML</p>
+    <!-- Project 2 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(124,58,237,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">🤖 POGO — Mini Jarvis AI</h3>
+      <p align="center"><em>Voice-controlled desktop assistant with web search, reminders & system automation.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Speech-FF6B6B?style=flat-square&logo=googletranslate&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-00C7B7?style=flat-square&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Demo-06B6D4?style=flat-square&logo=youtube&logoColor=white"/></a>
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>🤝 Collaborator</h3>
-      <p>Building great things together with brilliant people</p>
+  </tr>
+  <tr><td colspan="2" style="border:none;">&nbsp;</td></tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(6,182,212,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">📊 Electric Vehicle Data Analysis</h3>
+      <p align="center"><em>End-to-end EDA on EV adoption trends with Power BI dashboards and predictive insights.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Report-06B6D4?style=flat-square&logo=googledocs&logoColor=white"/></a>
+      </p>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(30,58,138,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">📱 ParkEase — Android Parking App</h3>
+      <p align="center"><em>Real-time slot tracking & booking app with Firebase auth and Google Maps integration.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/APK-06B6D4?style=flat-square&logo=android&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="border:none;">&nbsp;</td></tr>
+  <tr>
+    <!-- Project 5 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(124,58,237,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">🧠 Autism Prediction — ML</h3>
+      <p align="center"><em>Classification model (Logistic Regression + Random Forest) with Streamlit deployment.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/WebApp-06B6D4?style=flat-square&logo=streamlit&logoColor=white"/></a>
+      </p>
+    </td>
+    <!-- Project 6 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(6,182,212,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">💄 E-commerce Beauty Website</h3>
+      <p align="center"><em>Full-stack beauty store with cart, payments and admin dashboard.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Live-06B6D4?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr><td colspan="2" style="border:none;">&nbsp;</td></tr>
+  <tr>
+    <!-- Project 7 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(30,58,138,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">🛍️ Cloth Store Website</h3>
+      <p align="center"><em>Responsive clothing storefront with product filtering, wishlist and Stripe checkout.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Demo-06B6D4?style=flat-square&logo=vercel&logoColor=white"/></a>
+      </p>
+    </td>
+    <!-- Project 8 -->
+    <td width="50%" valign="top" style="padding:12px;border-radius:14px;background:rgba(124,58,237,0.18);border:1px solid rgba(6,182,212,0.35);">
+      <h3 align="center">📈 Business Analytics Dashboard</h3>
+      <p align="center"><em>Executive KPI dashboard with drill-down filters, forecasts & Tableau visualizations.</em></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github"/></a>
+        <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Dashboard-06B6D4?style=flat-square&logo=tableau&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 14. CURRENTLY LEARNING                                                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="48" height="48" alt="learning"/> &nbsp; Currently Learning &nbsp; <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="48" height="48" alt="learning"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Data_Engineering-0066CC?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PySpark-FFD21E?style=for-the-badge&logo=apachespark&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
+
+</div>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 15. FUN FACTS                                                         -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="42" height="42" alt="fun"/> &nbsp; Fun Facts &nbsp; <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="42" height="42" alt="fun"/>
+
+<table align="center" style="border:none;">
+  <tr>
+    <td align="center" style="padding:14px;border-radius:12px;background:rgba(6,182,212,0.15);border:1px solid rgba(6,182,212,0.3);">
+      ⚡<br><b>I turn coffee into Python code.</b>
+    </td>
+    <td align="center" style="padding:14px;border-radius:12px;background:rgba(124,58,237,0.15);border:1px solid rgba(6,182,212,0.3);">
+      📊<br><b>I love analysing data.</b>
+    </td>
+    <td align="center" style="padding:14px;border-radius:12px;background:rgba(30,58,138,0.15);border:1px solid rgba(6,182,212,0.3);">
+      🕷️<br><b>Favourite hero: Spider-Man.</b>
     </td>
   </tr>
 </table>
 
 </div>
 
----
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 16. VISITOR COUNTER & ACTIVITY                                        -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 📊 GITHUB UNIVERSE STATS
+### 👁️ Profile Views & Activity
 
-| Metric | Count |
-|--------|-------|
-| 📁 Public Repositories | **19** |
-| ⭐ Stars Received | **5+** |
-| 🎖️ Achievements | **Pull Shark** |
-| 🤝 Followers | Growing 📈 |
-| 🔗 Connections | Network Effect |
-| 💻 Active Projects | Multiple 🚀 |
+<img src="https://komarev.com/ghpvc/?username=Anmol954&label=Profile%20Views&color=06B6D4&style=for-the-badge&labelColor=0A0E27"/>
+<img src="https://img.shields.io/github/followers/Anmol954?label=Followers&style=for-the-badge&color=7C3AED&labelColor=0A0E27&logo=github"/>
+<img src="https://img.shields.io/github/stars/Anmol954?label=Total%20Stars&style=for-the-badge&color=06B6D4&labelColor=0A0E27&logo=github"/>
 
 </div>
 
----
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 17. CONNECT WITH ME                                                   -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🎁 SPECIAL FEATURES
+## <img src="https://media.giphy.com/media/3oz8xQYbasi0Zi7T8s/giphy.gif" width="48" height="48" alt="connect"/> &nbsp; Connect With Me &nbsp; <img src="https://media.giphy.com/media/3oz8xQYbasi0Zi7T8s/giphy.gif" width="48" height="48" alt="connect"/>
 
-### What Makes My Profile Stand Out?
-
-```
-✨ Full-Stack Expertise (Frontend → Backend → ML)
-✨ Real-World Project Portfolio (AI, FinTech, Healthcare)
-✨ Data-Driven Decision Making (Analytics Focus)
-✨ Cutting-Edge Tech Stack (Python, JavaScript, AI/ML)
-✨ Open Source Mindset (Community Contributor)
-✨ Continuous Growth (Always Learning New Things)
-✨ Problem-Solving Focus (Impact Over Ego)
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🎬 FINAL SCENE - THE CLOSING CREDITS
-
-<br/>
-
-### ✨ Thanks for Stepping into My Spider-Verse! ✨
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=800&lines=May+your+code+be+clean;Your+deployments+be+swift;Your+bugs+be+few;And+your+impact+be+massive+%F0%9F%95%B7%EF%B8%8F" alt="Closing message" />
-
-<br/>
-
-### 📜 Spider-Verse Wisdom
-
-> **"It's not about how much we lost. It's about how much we have left to build."**  
-> — Anmol's Coding Philosophy
-
----
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Anmol954&label=Profile+Views&color=FF1744&style=for-the-badge" alt="Profile Views" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/anmol-madhav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Anmol954"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:anmolmadhav954@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <br>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
 </p>
 
-### 🌟 Connect with Me
+</div>
 
-<a href="https://github.com/Anmol954">
-  <img src="https://img.shields.io/badge/Join_My_Network-FF1744?style=for-the-badge&logo=github" />
-</a>
+<br>
 
-<p style="margin: 20px 0;">
-  <em>Building the future, one commit at a time 🚀</em>
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 18. ANIMATED FOOTER                                                   -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=500&height=50&lines=Thanks+for+visiting+%F0%9F%91%8B;Happy+Coding+%F0%9F%9A%80" alt="Thanks"/>
+
+<br>
+
+<p>
+  <b>⭐ Don't forget to star my repositories</b>
 </p>
 
 <p>
-  <strong>Made with ❤️, powered by 🧠 AI, driven by 🕷️ Spider Magic</strong>
+  <a href="#top"><img src="https://img.shields.io/badge/Back%20to%20Top-06B6D4?style=for-the-badge&logo=arrowup&logoColor=white"/></a>
 </p>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF1744&height=120&section=footer&textBg=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,25:1E3A8A,50:7C3AED,75:06B6D4,100:0A0E27&height=140&section=footer&fontSize=0&animation=fadeIn" width="100%" alt="footer"/>
 
 </div>
 
-<!-- ============================================ -->
-<!-- 🎯 CUSTOMIZATION NOTES -->
-<!-- ============================================ -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- SETUP NOTES                                                           -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<!--
-HELLO ANMOL! 👋
+<details>
+  <summary>🔧 <b>Setup Notes — make the animations live</b></summary>
 
-This README is 100% CUSTOMIZED for your actual GitHub profile!
-Here's what's included and how to tweak it:
+  <br>
 
-🎨 PERSONALIZATION OPTIONS:
+  <h3>Enable the contribution snake 🐍</h3>
+  <ol>
+    <li>Create a repo named <code>Anmol954</code> (same as your username) — this README lives there.</li>
+    <li>Add a GitHub Action workflow at <code>.github/workflows/snake.yml</code> using <a href="https://github.com/Platane/snk">Platane/snk</a>.</li>
+    <li>The action outputs <code>github-snake.svg</code> and <code>github-snake-dark.svg</code> to a branch called <code>output</code>.</li>
+    <li>The <code>&lt;picture&gt;</code> block above will then render the snake automatically.</li>
+  </ol>
 
-1. ADD SOCIAL LINKS (if you have them):
-   - LinkedIn: Replace with your actual LinkedIn URL
-   - Twitter/X: Add your handle
-   - Portfolio/Website: Link to your personal site
-   - Email: Add contact email
+  <h3>Verify the dynamic widgets</h3>
+  <ul>
+    <li><b>Typing SVG</b> — works out of the box via <code>readme-typing-svg.demolab.com</code>.</li>
+    <li><b>GitHub Stats / Streak / Top-Langs</b> — public Vercel instances; if rate-limited, self-host from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>.</li>
+    <li><b>Activity Graph</b> — <code>github-readme-activity-graph.vercel.app</code>; self-host if needed.</li>
+    <li><b>3D Contributions</b> — uses <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a> action.</li>
+    <li><b>Trophies</b> — <code>github-profile-trophy.vercel.app</code>.</li>
+    <li><b>Profile Views</b> — <code>komarev.com/ghpvc</code>, no setup needed.</li>
+  </ul>
 
-2. PROJECT DESCRIPTIONS:
-   - All 6 flagship projects are featured with real descriptions
-   - Links go directly to your repositories
-   - Each has custom tech stack badges
+  <h3>Personalize</h3>
+  <ul>
+    <li>Replace the placeholder social links (LinkedIn / Email / LeetCode handle) with your real ones.</li>
+    <li>Update each project card's <code>Repository</code> and <code>Live Demo</code> links to point to the real repos.</li>
+    <li>Drop a <code>wave.svg</code> into <code>assets/</code> in your profile repo if you want the wave divider (otherwise the <code>onerror</code> handler hides it).</li>
+  </ul>
 
-3. ACHIEVEMENTS:
-   - Current: Pull Shark achievement
-   - 19 repositories
-   - Open source contributor
+</details>
 
-4. SKILLS & TECH STACK:
-   - Python, JavaScript, CSS (your core skills)
-   - ML/AI tools: TensorFlow, OpenAI, LangChain
-   - Data tools: Power BI, Tableau, SQL
-   - All badges are dynamic & themed
+<br>
 
-5. ANALYTICS:
-   - GitHub stats update in real-time
-   - Streak counter syncs automatically
-   - Top languages reflect your actual code
-   - Activity graph shows real contributions
-
-6. COLORS & THEME:
-   - Primary: #FF1744 (Spider-Man Red)
-   - Secondary: #0D1117 (Dark background)
-   - Accent: #FFFFFF (White)
-
-DEPLOYMENT:
-1. Copy this entire README
-2. Go to https://github.com/new and create repo "Anmol954"
-3. Create README.md file
-4. Paste this content
-5. Commit & push
-6. Your profile is now LIVE! 🚀
-
-OPTIONAL ENHANCEMENTS:
-- Add a profile banner image at the top
-- Create a contribution snake animation
-- Add your profile picture
-- Link to your top projects
-- Showcase your awards/certifications
-
-The README automatically pulls live data from:
-✓ GitHub Stats API
-✓ GitHub Streak API
-✓ Activity Graph API
-✓ Top Languages API
-
-Everything updates in real-time! No manual updates needed.
-
-Questions? Check GitHub's documentation or reach out!
-
-Happy coding! 🕷️✨
--->
+<div align="center">
+  <sub><i>Last updated: 2026 · Built with ♥ by Anmol Madhav</i></sub>
+</div>
