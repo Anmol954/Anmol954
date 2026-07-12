@@ -1,20 +1,17 @@
 <a name="top"></a>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 1. PREMIUM ANIMATED HEADER — Capsule Render + Wave + Gradient         -->
+<!-- 1. PREMIUM ANIMATED HEADER                                            -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282A36,25:44475A,50:FF79C6,75:BD93F9,100:282A36&height=240&section=header&text=Hi%20%E2%9C%8B%20I'm%20Anmol%20Madhav&fontAlign=46&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Turning%20Data%20into%20Decisions&descSize=18&descColor=BD93F9&descAlignY=58&animation=fadeIn&stroke=BD93F9&strokeWidth=2" width="100%" alt="header"/>
 
-<!-- Subtle wave divider -->
-<img src="https://raw.githubusercontent.com/Anmol954/Anmol954/main/assets/wave.svg" width="100%" height="40" onerror="this.style.display='none'"/>
-
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 2. TYPING ANIMATION — Continuous Loop                                 -->
+<!-- 2. TYPING ANIMATION                                                  -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -24,8 +21,8 @@
 </div>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══ EXTRA A — ANIMATED DEVICONS MARQUEE ══╗ -->
+<!-- 3. TECH I SPEAK — SKILLICONS MARQUEE                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -43,7 +40,8 @@
 
 <br>
 
-<!-- 3. PROFESSIONAL BANNER                                                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 4. PROFESSIONAL BANNER                                               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -55,7 +53,22 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 4. ABOUT ME — Glassmorphism Cards                                     -->
+<!-- 5. TABLE OF CONTENTS                                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+| Jump to → | | | |
+| :--- | :--- | :--- | :--- |
+| 🧑‍💻 [About](#-about-me) | ⚙️ [Tech Stack](#-tech-stack) | 📊 [Stats](#-github-statistics) | 🚀 [Projects](#-featured-projects) |
+| 🏆 [Trophies](#-github-trophies) | 📚 [Learning](#-currently-learning) | 😄 [Fun Facts](#-fun-facts) | 🤝 [Connect](#-connect-with-me) |
+
+</div>
+
+<br>
+
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 6. ABOUT ME — Glassmorphism Cards                                    -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -99,7 +112,7 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 5. ANIMATED CODING GIF                                                -->
+<!-- 7. ANIMATED CODING GIF                                               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -111,7 +124,7 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 6. TECH STACK — Categorised Icons                                     -->
+<!-- 8. TECH STACK — Categorised Icons                                    -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -183,8 +196,6 @@
 
 <br>
 
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 <!-- ─── Matrix Rain Divider ─── -->
 <div align="center">
   <img src="https://media.giphy.com/media/Q9BtUkQfqHJt5acN4D/giphy.gif" width="100%" height="40" alt="matrix divider" style="display:block;"/>
@@ -192,7 +203,8 @@
 
 <br>
 
-<!-- 7. GITHUB STATISTICS — 2x2 Premium Grid                               -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 9. GITHUB STATISTICS                                                 -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -216,9 +228,10 @@
 </div>
 
 <br>
-<!-- ════════════════════════════════════════════════════════════════════ -->
 
-<!-- ╔══ EXTRA B — GITHUB PROFILE SUMMARY CARDS ══╗ -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 10. PROFILE SUMMARY CARDS                                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -238,8 +251,9 @@
 
 <br>
 
-
-<!-- ╔══ EXTRA C — DETAILED CODING STATS ══╗ -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 11. DETAILED CODING STATS                                            -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -253,7 +267,8 @@
 
 <br>
 
-<!-- 8. CONTRIBUTION SNAKE ANIMATION                                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 12. CONTRIBUTION SNAKE                                               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -266,14 +281,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Anmol954/Anmol954/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-> _Enable the snake action — see setup notes at the bottom of this README._
+> _Enable the snake action — see [Setup Notes](#-setup-notes--make-the-animations-live) at the bottom of this README._
 
 </div>
 
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 9. 3D CONTRIBUTION CALENDAR                                           -->
+<!-- 13. 3D CONTRIBUTION CALENDAR                                          -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -287,7 +302,7 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 10. PROFILE BADGES — Curated & Meaningful                             -->
+<!-- 14. PROFILE BADGES                                                   -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -307,7 +322,7 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 11. TROPHY SECTION                                                    -->
+<!-- 15. TROPHIES                                                         -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -321,8 +336,8 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══ EXTRA D — ACHIEVEMENT MILESTONES ══╗ -->
+<!-- 16. MILESTONES                                                       -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -352,7 +367,8 @@
 
 <br>
 
-<!-- 12. DYNAMIC QUOTE                                                     -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 17. DYNAMIC QUOTE + DEV JOKE                                         -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -364,9 +380,6 @@
 </div>
 
 <br>
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══ EXTRA E — RANDOM DEV JOKE ══╗ -->
 
 <div align="center">
 
@@ -378,7 +391,8 @@
 
 <br>
 
-<!-- 13. FEATURED PROJECTS — Premium Cards                                  -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 18. FEATURED PROJECTS                                                -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -514,8 +528,6 @@
 </table>
 
 <br>
-<!-- ════════════════════════════════════════════════════════════════════ -->
-
 
 <!-- ─── Matrix Rain Divider ─── -->
 <div align="center">
@@ -524,7 +536,9 @@
 
 <br>
 
-<!-- ╔══ EXTRA F — MOST STARRED REPOS + STAR HISTORY ══╗ -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 19. TOP STARRED REPOS + STAR HISTORY                                 -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -561,7 +575,8 @@
 
 <br>
 
-<!-- 14. CURRENTLY LEARNING                                                -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 20. CURRENTLY LEARNING                                               -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -585,8 +600,8 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══ EXTRA G — CURRENTLY WORKING ON + READING LIST ══╗ -->
+<!-- 21. CURRENTLY WORKING ON + READING LIST                              -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -623,7 +638,8 @@
 
 <br>
 
-<!-- 15. FUN FACTS                                                         -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 22. FUN FACTS                                                        -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -649,8 +665,8 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-
-<!-- ╔══ EXTRA H — SPOTIFY NOW PLAYING ══╗ -->
+<!-- 23. SPOTIFY NOW PLAYING                                              -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -666,7 +682,8 @@
 
 <br>
 
-<!-- 16. VISITOR COUNTER & ACTIVITY                                        -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 24. VISITOR COUNTER & ACTIVITY                                      -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -682,7 +699,7 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 17. CONNECT WITH ME                                                   -->
+<!-- 25. CONNECT WITH ME                                                  -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -705,7 +722,7 @@
 <br>
 
 <!-- ════════════════════════════════════════════════════════════════════ -->
-<!-- 18. ANIMATED FOOTER                                                   -->
+<!-- 26. ANIMATED FOOTER                                                  -->
 <!-- ════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -762,8 +779,6 @@
     <li>Drop a <code>wave.svg</code> into <code>assets/</code> in your profile repo if you want the wave divider (otherwise the <code>onerror</code> handler hides it).</li>
   </ul>
 
-
-
   <h3>🎵 Spotify Now Playing</h3>
   <ol>
     <li>Find your Spotify <b>user ID</b> (open the Spotify desktop app → click your profile → "..." → "Share" → "Copy Spotify URI"; the ID is the string after <code>spotify:user:</code>).</li>
@@ -775,7 +790,7 @@
   <ol>
     <li>Create a free account at <a href="https://wakatime.com">wakatime.com</a> and install the IDE plugin.</li>
     <li>Grab your WakaTime API key from <code>Settings → API Key</code>.</li>
-    <li>Add an <code>WAKATIME_API_KEY</code> secret to your profile repo and configure <a href="https://github.com/athul/waka-readme">athul/waka-readme</a> GitHub Action to push weekly coding stats into the README.</li>
+    <li>Add a <code>WAKATIME_API_KEY</code> secret to your profile repo and configure <a href="https://github.com/athul/waka-readme">athul/waka-readme</a> GitHub Action to push weekly coding stats into the README.</li>
   </ol>
 
   <h3>🪪 Profile Summary Cards</h3>
